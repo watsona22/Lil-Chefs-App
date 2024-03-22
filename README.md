@@ -4,17 +4,18 @@
 
 ## Description
 
-The purpose of this project was to build an interactive web application. Lil Chefs provides options to browse and display recipe ideas, based on user preferences. The dynamic components of our website are supported by JavaScript. We have also incorporated two working API and a CSS framework to improve browsability and the overall look and feel of the site.
+Lil Chefs provides options to browse and display recipe ideas, based on user preferences. The dynamic components of our website are supported by JavaScript. We have also incorporated two working API and a CSS framework to improve browsability and the overall look and feel of the site.
 
 Our acceptance criteria were as follows: 
 
+```
 GIVEN that a user wants to find new recipes,
 THEN he selects ingredients to include or exclude.
 WHEN the user is prompted to find recipes based on current location and weather,
 THEN the user accepts or declines the question and a discrete list of recipes are returned with options to save them for future reference. 
 WHEN the user returns to the main menu,
 THEN he can view saved recipes.
-
+```
 All criteria were met and the site functions as expected. 
 
 ## Usage
